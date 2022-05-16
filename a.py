@@ -1,0 +1,18 @@
+import turtle
+wn=turtle.Screen()
+a=turtle.Turtle()
+wn.bgcolor("black")
+a.color("white")
+a.pensize("4")
+
+a.speed(1)
+a.forward(50)
+a.right(90)
+a.forward(100)
+a.right(90)
+a.forward(100)
+a.right(90)
+a.forward(100)
+a.right(90)
+a.forward(50)
+a.fillcolor("white")
